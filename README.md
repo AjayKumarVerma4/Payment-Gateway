@@ -23,7 +23,7 @@ Implementation of API for a Payment Gateway using Sping Boot, Hibernate and MySQ
 }
 }
 
-### The following will be the request  payload
+### The following will be the response payload
 
 {
     "amount": 100.0,
@@ -42,7 +42,15 @@ Implementation of API for a Payment Gateway using Sping Boot, Hibernate and MySQ
    Spring Boot, Hibernate, MYSQL database.
    
    
+## Technologies used
    
+![Screenshot from 2020-09-19 17-21-25](https://user-images.githubusercontent.com/66169115/93667311-a0f0c100-faa2-11ea-84b9-c859c04a8c63.png)
+   
+![Screenshot from 2020-09-19 17-21-36](https://user-images.githubusercontent.com/66169115/93667347-d4335000-faa2-11ea-9a1b-54686d62612b.png)
+
+![Screenshot from 2020-09-19 **16-48-05](https://user-images.githubusercontent.com/66169115/93667350-dbf2f480-faa2-11ea-8a46-57a19a57a8dd.png)**
+
+
    
    
    
