@@ -42,7 +42,7 @@ Implementation of API for a Payment Gateway using Sping Boot, Hibernate and MySQ
    Spring Boot, Hibernate, MYSQL database.
    
    
-## Technologies used
+## Images
    
 ![Screenshot from 2020-09-19 17-21-25](https://user-images.githubusercontent.com/66169115/93667311-a0f0c100-faa2-11ea-84b9-c859c04a8c63.png)
    
