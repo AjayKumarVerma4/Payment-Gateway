@@ -39,7 +39,7 @@ Implementation of API for a Payment Gateway using Sping Boot, Hibernate and MySQ
 
 ## Technologies used
  
-   Spring Boot, Hibernate, MYSQL database.
+   Java, Spring Boot, Hibernate, MYSQL database.
    
    
 ## Images
